@@ -48,8 +48,8 @@ The application uses the **Clarifai API’s Inputs and Search endpoints** to han
 
 ## 📂 Git Repository Link
 
-https://github.com/your-username/visual-product-matcher.git
+https://github.com/ravishankar7488/Visual-Image-Matcher.git
 
 ## 📂 Live Link
 
-https://github.com/your-username/visual-product-matcher.git
+https://visual-image-matcher.onrender.com/
